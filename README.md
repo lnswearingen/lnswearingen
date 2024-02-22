@@ -1,4 +1,4 @@
-### Hello! 👋
+### Hi! 👋
 
-🪲 QA Engineer @ ParentSquare
+🪲 QA Engineer @ ParentSquare   
 🐍 currently learning: Python
